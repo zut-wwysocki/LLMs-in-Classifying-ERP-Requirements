@@ -1,0 +1,62 @@
+[
+  {
+    "area": "Sales",
+    "id": "1",
+    "name": "Customer Order Management",
+    "description": "The system shall allow users to create, modify, approve, and track customer sales orders throughout their lifecycle. Order statuses should be updated automatically and visible in real time."
+  },
+  {
+    "area": "Procurement",
+    "id": "2",
+    "name": "Purchase Requisition",
+    "description": "The system shall support the creation of purchase requisitions with configurable approval workflows and automatic conversion into purchase orders."
+  },
+  {
+    "area": "Inventory",
+    "id": "3",
+    "name": "Stock Management",
+    "description": "The system shall provide real-time inventory visibility, including stock levels, reserved quantities, warehouse locations, and inventory movements."
+  },
+  {
+    "area": "Finance",
+    "id": "4",
+    "name": "Accounts Payable",
+    "description": "The system shall manage supplier invoices, payment schedules, approval processes, and automatic posting to the general ledger."
+  },
+  {
+    "area": "Finance",
+    "id": "5",
+    "name": "Accounts Receivable",
+    "description": "The system shall support customer invoicing, payment tracking, overdue payment monitoring, and automated reminder notifications."
+  },
+  {
+    "area": "Production",
+    "id": "6",
+    "name": "Production Planning",
+    "description": "The system shall enable production planning based on demand forecasts, sales orders, and available material resources."
+  },
+  {
+    "area": "Maintenance",
+    "id": "7",
+    "name": "Preventive Maintenance",
+    "description": "The system shall schedule preventive maintenance activities based on predefined intervals, equipment usage, or condition-based triggers."
+  },
+  {
+    "area": "Human Resources",
+    "id": "8",
+    "name": "Employee Management",
+    "description": "The system shall maintain employee records, organizational structures, job positions, and employment history in a centralized database."
+  },
+  {
+    "area": "Reporting",
+    "id": "9",
+    "name": "Business Intelligence Dashboard",
+    "description": "The system shall provide configurable dashboards with key performance indicators, charts, and drill-down capabilities for business analysis."
+  },
+  {
+    "area": "Administration",
+    "id": "10",
+    "name": "Role-Based Access Control",
+    "description": "The system shall provide role-based access management, allowing administrators to define permissions for users, groups, and business functions."
+  }
+]

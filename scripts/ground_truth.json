@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "expert_classification": "STANDARD"
+  },
+  {
+    "id": "2",
+    "expert_classification": "CUSTOMIZATION"
+  },
+  {
+    "id": "3",
+    "expert_classification": "STANDARD"
+  },
+  {
+    "id": "4",
+    "expert_classification": "CUSTOMIZATION"
+  },
+  {
+    "id": "5",
+    "expert_classification": "STANDARD"
+  },
+  {
+    "id": "6",
+    "expert_classification": "CUSTOMIZATION"
+  },
+  {
+    "id": "7",
+    "expert_classification": "STANDARD"
+  },
+  {
+    "id": "8",
+    "expert_classification": "CUSTOMIZATION"
+  },
+  {
+    "id": "9",
+    "expert_classification": "STANDARD"
+  },
+  {
+    "id": "10",
+    "expert_classification": "CUSTOMIZATION"
+  }
+]
