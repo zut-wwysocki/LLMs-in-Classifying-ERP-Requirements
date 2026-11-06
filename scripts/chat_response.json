@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "area": "Sales",
+    "name": "Customer Order Management",
+    "classification": "STANDARD",
+    "justification": "Comarch ERP XL natively supports sales orders and their statuses in the sales module. This description covers the typical document lifecycle without the need for additional logic.",
+    "confidence": 4
+  },
+  {
+    "id": "2",
+    "area": "Procurement",
+    "name": "Purchase Requisition",
+    "classification": "STANDARD",
+    "justification": "By default, the system supports purchase requisitions and purchase orders, as well as their approval workflow within procurement processes. Automatic conversion to a purchase order is handled by standard mechanisms.",
+    "confidence": 4
+  },
+  {
+    "id": "3",
+    "area": "Inventory",
+    "name": "Stock Management",
+    "classification": "STANDARD",
+    "justification": "Comarch ERP XL provides standard functionality for tracking inventory levels, reservations, locations, and inventory movements. This requirement falls within typical inventory management functionality.",
+    "confidence": 4
+  },
+  {
+    "id": "4",
+    "area": "Finance",
+    "name": "Accounts Payable",
+    "classification": "STANDARD",
+    "justification": "The system standard covers accounts payable, accounts receivable, payments, settlements, and posting documents to the general ledger. The description does not indicate a need for non-standard logic.",
+    "confidence": 4
+  },
+  {
+    "id": "5",
+    "area": "Finance",
+    "name": "Accounts Receivable",
+    "classification": "STANDARD",
+    "justification": "The system standard covers accounts payable, accounts receivable, payments, settlements, and posting documents to the general ledger. The description does not indicate a need for custom logic.",
+    "confidence": 4
+  },
+  {
+    "id": "6",
+    "area": "Production",
+    "name": "Production Planning",
+    "classification": "STANDARD",
+    "justification": "Production planning is carried out using the standard ERP XL production modules, based on demand, orders, and material availability. The requirement does not go beyond the standard.",
+    "confidence": 4
+  },
+  {
+    "id": "7",
+    "area": "Maintenance",
+    "name": "Preventive Maintenance",
+    "classification": "STANDARD",
+    "justification": "The system includes standard mechanisms for planning inspections and maintenance tasks. This requirement describes a typical maintenance schedule.",
+    "confidence": 4
+  },
+  {
+    "id": "8",
+    "area": "Human Resources",
+    "name": "Employee Management",
+    "classification": "STANDARD",
+    "justification": "The HR module typically stores employee data, organizational structures, and employment history. This corresponds to a basic personnel file.",
+    "confidence": 4
+  },
+  {
+    "id": "9",
+    "area": "Reporting",
+    "name": "Business Intelligence Dashboard",
+    "classification": "STANDARD",
+    "justification": "Standard ERP XL reports and dashboards enable KPI summaries, charts, and drill-down analyses. This requirement falls within the reporting scope without the need for additional code.",
+    "confidence": 4
+  },
+  {
+    "id": "10",
+    "area": "Administration",
+    "name": "Role-Based Access Control",
+    "classification": "STANDARD",
+    "justification": "Role- and group-based access control is a standard feature of the system administrator. This requirement does not require any extensions.",
+    "confidence": 4
+  }
+]

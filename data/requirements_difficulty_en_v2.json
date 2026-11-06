@@ -1,0 +1,50 @@
+[
+  {
+    "area": "Shipping",
+    "identifier": "2.9-9",
+    "name": "Goods shipment, graphical optimization",
+    "description": "Integration with truck load optimization software.",
+    "classification": "Customization",
+    "difficulty": "easiest"
+  },
+  {
+    "area": "Panel production in Factory No. 2",
+    "identifier": "2.13-5",
+    "name": "Import from HENNECKE (Contimat)",
+    "description": "Reading data from the production line linked to the production order (PO): settings, times, speeds, temperatures, pressures. Storing the data in order to identify the cause of complaints.",
+    "classification": "Customization",
+    "difficulty": "easiest"
+  },
+  {
+    "area": "Maintenance",
+    "identifier": "2.6-5",
+    "name": "Spare parts warehouse",
+    "description": "Spare parts warehouse – for carrying out repairs. Each plant has its own warehouse. There are safety stocks (several dozen different items), and purchase orders to suppliers are registered to replenish them. The second ordering method is ad hoc purchases resulting directly from breakdowns that have occurred.",
+    "classification": "Standard",
+    "difficulty": "easiest"
+  },
+  {
+    "area": "Panel production in Factory No. 2",
+    "identifier": "2.13-10",
+    "name": "Recipe in non-standard units",
+    "description": "The recipe is determined by the laboratory.",
+    "classification": "Customization",
+    "difficulty": "most difficult"
+  },
+  {
+    "area": "Panel production in Factory No. 2",
+    "identifier": "2.13-29",
+    "name": "Receipt of finished goods",
+    "description": "The following are received from production:\na. 1st-grade products – labeled, stacked and taken to the finished goods warehouse\nb. 2nd-grade products – labeled and received into the hall warehouse\nc. products rejected during production – received with an internal receipt document (PW) into the hall warehouse\nd. other products – into the hall warehouse",
+    "classification": "Customization",
+    "difficulty": "most difficult"
+  },
+  {
+    "area": "Panel production in Factory No. 2",
+    "identifier": "2.13-6",
+    "name": "Visualization of order execution",
+    "description": "Visualization of the production plan and its execution on the shop floor (color-coded statuses).",
+    "classification": "Standard",
+    "difficulty": "most difficult"
+  }
+]
